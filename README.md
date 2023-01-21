@@ -1,2 +1,2 @@
 # URI
-Desafios resolvidos na Plataforma URI Online Judge
+Desafios resolvidos na Plataforma URI Online Judge 
